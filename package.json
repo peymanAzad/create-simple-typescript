@@ -14,7 +14,7 @@
 	},
 	"homepage": "https://github.com/peymanAzad/create-ts-proj#readme",
 	"bin": {
-		"create-ts-proj": "./src/index.js"
+		"create-ts-proj": "index.js"
 	},
 	"scripts": {
 		"start": "node index.js"
