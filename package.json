@@ -1,6 +1,6 @@
 {
 	"name": "create-simple-typescript",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "simple typescript project creator",
 	"main": "index.js",
 	"author": "peymanAzad",
