@@ -3,5 +3,5 @@
 Simple "hello world" typescript project creator with config files and scripts
 
 ```bash
-npx create-web-api <project-name>
+npx create-simple-typescript <project-name>
 ```
