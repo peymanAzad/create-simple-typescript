@@ -1,0 +1,36 @@
+{
+	"name": "create-ts-proj",
+	"version": "1.0.0",
+	"description": "simple typescript project creator",
+	"main": "index.js",
+	"author": "peymanAzad",
+	"license": "MIT",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/peymanAzad/create-ts-proj.git"
+	},
+	"bugs": {
+		"url": "https://github.com/peymanAzad/create-ts-proj/issues"
+	},
+	"homepage": "https://github.com/peymanAzad/create-ts-proj#readme",
+	"bin": {
+		"create-ts-proj": "./src/index.js"
+	},
+	"scripts": {
+		"start": "node index.js"
+	},
+	"keywords": [
+		"node",
+		"node.js",
+		"typescript",
+		"boilerplate",
+		"generator",
+		"api"
+	],
+	"dependencies": {
+		"chalk": "^4.1.2",
+		"fs-extra": "^10.0.0",
+		"inquirer": "^8.2.0",
+		"mustache": "^4.2.0"
+	}
+}
