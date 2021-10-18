@@ -7,12 +7,12 @@
 	"license": "MIT",
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/peymanAzad/create-ts-proj.git"
+		"url": "git+https://github.com/peymanAzad/create-simple-typescript.git"
 	},
 	"bugs": {
-		"url": "https://github.com/peymanAzad/create-ts-proj/issues"
+		"url": "https://github.com/peymanAzad/create-simple-typescript/issues"
 	},
-	"homepage": "https://github.com/peymanAzad/create-ts-proj#readme",
+	"homepage": "https://github.com/peymanAzad/create-simple-typescript#readme",
 	"bin": {
 		"create-simple-typescript": "index.js"
 	},
