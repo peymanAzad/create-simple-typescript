@@ -1,5 +1,5 @@
 {
-	"name": "create-ts-proj",
+	"name": "create-simple-typescript",
 	"version": "1.0.0",
 	"description": "simple typescript project creator",
 	"main": "index.js",
@@ -14,7 +14,7 @@
 	},
 	"homepage": "https://github.com/peymanAzad/create-ts-proj#readme",
 	"bin": {
-		"create-ts-proj": "index.js"
+		"create-simple-typescript": "index.js"
 	},
 	"scripts": {
 		"start": "node index.js"
